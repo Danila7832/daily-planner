@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBT9Iw+EDyypd6l7/E7yWZTKTfek3bvf00P0iGrtQBFVxWuS9JB9EvWtBv3t8WrV10vPvW/kDq/Z4LUI3bQLJw==",
+  "success": true,
+  "projectFilePath": "/Users/maria/Desktop/Помойка/С#/Projects/prakt4/prakt4/prakt4.csproj",
+  "expectedPackageFiles": [
+    "/Users/maria/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
